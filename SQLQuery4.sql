@@ -1,0 +1,5 @@
+SELECT TOP (1000) [CustomerID]
+      ,[FullName]
+      ,[Country]
+      ,[Score]
+  FROM [myproject1].[dbo].[Customers_Analytics]
